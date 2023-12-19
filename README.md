@@ -27,8 +27,33 @@ Agora você pode escrever seu site estático simples com um bom HTML semântico,
 
 Cole isto em `<head>` do seu HTML:
 
+- Tema Automático
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+```
+
+- Tema Escuro
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+```
+
+- Tema Claro
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
+```
+
+
+**Outro Estilo CSS**
+
+
+**W3C Core Styles**
+
+- Link: https://www.w3.org/StyleSheets/Core/
+
+
+- Tema 
+```html
+<link rel="stylesheet" href="https://www.w3.org/StyleSheets/Core/Modernist" type="text/css">
 ```
 
 
